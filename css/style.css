@@ -1,0 +1,91 @@
+    .row, h2, h3, figure{
+        text-align: center;
+    }
+
+    #fonte{
+        font-size: 50px;
+    }
+
+
+
+    .row{
+        margin: 20px;
+    }
+
+    .botaoavaliacoes{
+        text-align: center;
+        margin: 15px;
+    }
+
+    i{
+        margin: 10px;
+    }
+
+    #cor{
+        color: #28a745;
+    }
+
+    .navbar-brand img {
+        height: 50px;
+
+    }
+
+    .navbar-brand {
+        padding: 30px;
+    }
+
+    .language-select {
+        position: relative;
+        margin-left: 1500px;
+    }
+
+    .dropdown-menu {
+        width: 150px;
+    }
+
+    .navbar {
+        background-color: #ffffe2;
+    }
+
+    .color2parte {
+        background-color: #ffffe2;
+    }
+
+    h1 {}
+
+    .btn-primary {
+        background-color: #208839;
+        border-color: #28a745;
+        color: white;
+        border-radius: 25px;
+        padding: 10px 30px;
+        margin: 50px;
+    }
+
+    .btn-primary:hover {
+        background-color: #218838;
+        border-color: #1e7e34;
+    }
+
+    .btn-primary:focus,
+    .btn-primary:active {
+        box-shadow: none;
+    }
+
+
+    .headline {
+        font-size: 4rem;
+        font-weight: bold;
+    }
+
+    .headline .highlight {
+        display: block;
+        margin-top: 10px;
+    }
+
+    footer{
+        background-color: rgba(1,24,39,255);
+        color: rgba(115,130,142,255);
+        margin: 20px 0px 0px 20px;
+        padding: 10px;
+    }
